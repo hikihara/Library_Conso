@@ -1,4 +1,5 @@
 streamlit
+streamlit_agraph
 # 他にpandasやnumpyなどを使っている場合も追記
 pandas
 numpy
