@@ -4,5 +4,5 @@ pandas
 numpy
 matplotlib
 plotly
-statemodels
+statesmodels
 # streamlit community cloud を使い場合の importファイル定義
